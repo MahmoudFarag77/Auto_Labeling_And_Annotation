@@ -62,7 +62,7 @@ You are ready to run the notebook (All the dependencies will be installed within
 ## 🎥 Visual Demonstration
 
 ### Raw Input Video
-![Raw Video](results/RAW_VID.gif)
+![Raw Video](results/RAW_Vid.gif)
 
 ---
 
